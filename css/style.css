@@ -1,0 +1,20 @@
+*{
+	font-family: 'Lato', sans-serif;
+	color: #747704;
+}
+
+.text-grey {
+	color: #BCBBBB;
+}
+
+.text-thin {
+	font-weight: 300;
+}
+
+.header-text {
+	font-size: 70px;
+}
+
+.header-logo {
+	margin-top: 20px;
+}
